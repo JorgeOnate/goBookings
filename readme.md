@@ -1,4 +1,4 @@
-# Bookings and Reservation
+# Bookings and Reservations
 
 Main repository for my bookings and reservations project using go.
 
