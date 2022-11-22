@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/JorgeOnate/goBookings/pkg/config"
-	"github.com/JorgeOnate/goBookings/pkg/handlers"
+	"github.com/JorgeOnate/goBookings/internal/config"
+	"github.com/JorgeOnate/goBookings/internal/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )

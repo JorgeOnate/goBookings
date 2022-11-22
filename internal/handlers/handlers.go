@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/JorgeOnate/goBookings/pkg/config"
-	"github.com/JorgeOnate/goBookings/pkg/models"
-	"github.com/JorgeOnate/goBookings/pkg/render"
+	"github.com/JorgeOnate/goBookings/internal/config"
+	"github.com/JorgeOnate/goBookings/internal/models"
+	"github.com/JorgeOnate/goBookings/internal/render"
 )
 
 // Repo the repository used by the handlers
