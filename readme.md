@@ -8,4 +8,4 @@ Main repository for my bookings and reservations project using go.
 - Uses [nosurf](github.com/justinas/nosurf)
 
 
-Current State - on Pause
+Current State - inactive
