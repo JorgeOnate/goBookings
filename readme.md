@@ -7,5 +7,4 @@ Main repository for my bookings and reservations project using go.
 - Uses [alex edwards SCS](github.com/alexedwards/scs/v2)
 - Uses [nosurf](github.com/justinas/nosurf)
 
-
 Current State - inactive
